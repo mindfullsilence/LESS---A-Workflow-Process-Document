@@ -1,7 +1,7 @@
-Responsive OOLESS - a workflow process document
+Responsive LESS - a workflow process document
 ===============================================
 
-A contemplation and description of an object-oriented workflow using LESS
+A contemplation and description of a pseudo-object-oriented workflow using LESS
 
 ## How to read this document
 
@@ -9,7 +9,7 @@ A contemplation and description of an object-oriented workflow using LESS
 
 ### Resources
 
-## An object
+## An Object
 
 ## A Context
 
