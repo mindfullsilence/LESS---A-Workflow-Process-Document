@@ -1,4 +1,4 @@
-Responsive LESS - a workflow process document
+Responsive LESS - A Workflow Process Document
 ===============================================
 
 A contemplation and description of a pseudo-object-oriented workflow using LESS
